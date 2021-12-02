@@ -1,0 +1,19 @@
+{
+    "PRODUCCION": {
+                    "USER": "root"
+                    , "PASS":""
+                    , "HOST":"localhost"
+                    , "DATABASE":"etlpedidos"
+                    , "RUTA_DOWNLOAD": "C:/Users/jonathan/proyecto/extract/"
+                    , "URL_DATOS_DOWNLOAD": "https://www.kaggle.com/mrinath/starter-life-expectancy-who-9536c272-3/notebook/"
+                }
+                
+    , "DESARROLLO": {
+                    "USER": "root"
+                    , "PASS":""
+                    , "HOST":"localhost"
+                    , "DATABASE":"etlpedidos"
+                    , "RUTA_DOWNLOAD": "C:/Users/jonathan/proyecto/extract/"
+                    , "URL_DATOS_DOWNLOAD": "https://www.kaggle.com/mrinath/starter-life-expectancy-who-9536c272-3/notebook/"
+                }
+}
